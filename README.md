@@ -1,20 +1,7 @@
-# deep-learning-projects
-There is where I save my scripts of DL projects (learn from https://www.coursera.org/specializations/deep-learning)
-Aim to apply these knowledge and skills to projects of neurodevelopmental disorders (e.g., establishing CNN on large-scale neuroimaging dataset to predict clinical results)
+# Deep-Learning-Projects
+Apply DNNs to Neuropsychiatric Classification and Prediction
 
-## 1. Learn from coursera 
-### neural networks and deep learning 
+## 1. Autism classification
 
 
-### Improving deep neural networks: hyperparameter tuning, regularization and optimization
-
-### Structuring your machine learning project
-
-### Convolutional neural networks
-
-### Natural language processing: building sequence models (RNN, LSTM)
-
-## 2. Autism classification
-
-
-## 3. PNC age prediction
+## 2. PNC age/clinical symptoms prediction
